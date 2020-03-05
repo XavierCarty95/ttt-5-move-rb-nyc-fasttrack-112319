@@ -6,3 +6,5 @@ require_relative '../lib/move.rb'
 puts "What number do you want to play?"
 
 number = gets.strip
+
+input_to_index(number)
