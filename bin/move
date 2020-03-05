@@ -11,5 +11,5 @@ number = gets.strip
 input_to_index(number)
 
 
-move(board, 0 , "X")
+move(board, number , "X")
 display_board(board)
