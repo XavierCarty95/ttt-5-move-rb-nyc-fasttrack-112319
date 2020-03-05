@@ -13,5 +13,3 @@ def input_to_index(number)
   final_number = number - 1
   final_number
 end
-
-input_to_index(12)
