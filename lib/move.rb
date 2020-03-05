@@ -12,3 +12,5 @@ def input_to_index(number)
   final_number = number - 1
   puts final_number
 end
+
+def move(array , index , value)
