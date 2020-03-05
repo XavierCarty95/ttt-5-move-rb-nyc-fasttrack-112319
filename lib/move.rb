@@ -10,4 +10,5 @@ end
 def input_to_index(number)
   number = gets.strip
   number.to_i
+  final_number = number - 1
 end
