@@ -11,5 +11,5 @@ def input_to_index(number)
   number = gets.strip
   number = number.to_i
   final_number = number - 1
-  final_number
+  puts final_number
 end
