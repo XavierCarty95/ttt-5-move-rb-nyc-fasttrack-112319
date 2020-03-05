@@ -12,7 +12,7 @@ end
 def input_to_index(number)
   number = number.to_i
   puts number
-  
+
 end
 
 def move(array , index , value)
