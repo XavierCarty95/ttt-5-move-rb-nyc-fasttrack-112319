@@ -11,7 +11,7 @@ end
 # code your input_to_index and move method here!
 def input_to_index(number)
   number = number.to_i
-  puts final_number
+  puts number
 end
 
 def move(array , index , value)
